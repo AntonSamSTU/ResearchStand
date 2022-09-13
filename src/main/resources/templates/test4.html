@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>tobii test4</title>
+
+</head>
+
+<body id="body">
+
+
+<form id="appStop" th:action="@{/stoptest4}" method="post">
+
+    <!-- Координаты для рабочего поля -->
+
+    <input type="hidden" name="fieldheight" id="fieldheight" value="default" />
+    <input type="hidden" name="fieldwidth" id="fieldwidth" value="default" />
+
+    <input type="hidden" name="fieldoX1" id="fieldoX1" value="default" />
+    <input type="hidden" name="fieldoY1" id="fieldoY1" value="default" />
+
+    <!-- Координаты для тех, которые нужно выбрать -->
+    <input type="hidden" name="height" id="height" value="default" />
+    <input type="hidden" name="width" id="width" value="default" />
+
+    <input type="hidden" name="oX1" id="oX1" value="default" />
+    <input type="hidden" name="oY1" id="oY1" value="default" />
+
+    <input type="hidden" name="oX2" id="oX2" value="default" />
+    <input type="hidden" name="oY2" id="oY2" value="default" />
+
+    <input type="hidden" name="oX3" id="oX3" value="default" />
+    <input type="hidden" name="oY3" id="oY3" value="default" />
+
+    <input type="hidden" name="oX4" id="oX4" value="default" />
+    <input type="hidden" name="oY4" id="oY4" value="default" />
+
+    <input type="hidden" name="oX5" id="oX5" value="default" />
+    <input type="hidden" name="oY5" id="oY5" value="default" />
+
+</form>
+
+<div class="spam" id="spam1">
+</div>
+
+<table id="table1">
+    <tr>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+
+    </tr>
+    <tr>
+        <th>W</th>
+        <th>W</th>
+
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th class="required" id="required2" onclick="onButton(this)">W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+    </tr>
+    <tr>
+        <th>W</th>
+        <th class="required" id="required3" onclick="onButton(this)">W</th>
+        <th>W</th>
+        <th>W</th>
+
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+
+
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+    </tr>
+    <tr>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+    </tr>
+    <tr>
+        <th>W</th>
+        <th>W</th>
+
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th class="required" id="required1" onclick="onButton(this)">W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+
+    <tr>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+
+        <th>W</th>
+        <th>W</th>
+        <th class="required" id="required5" onclick="onButton(this)">W</th>
+        <th>W</th>
+        <th>W</th>
+    </tr>
+    <tr>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th class="required" id="required4" onclick="onButton(this)">W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+    </tr>
+    <tr>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+        <th>W</th>
+
+        <th>W</th>
+        <th>W</th>
+    </tr>
+
+</table>
+
+<div class="spam" id="spam2">
+</div>
+
+</body>
+<script language="JavaScript" type="text/javascript">
+    document.getElementById("spam1").style.backgroundImage = 'url(css/gif1.gif)';
+    document.getElementById("spam2").style.backgroundImage = 'url(css/gif2.gif)';
+
+    function isColored(element) {
+        return element.style.background == "rgb(255, 153, 0)";
+    }
+
+    function onButton(elem) {
+        elem.style.background = "rgb(255, 153, 0)";
+        var elements = [...document.getElementsByClassName("required")]
+        if (elements.every(isColored)) {
+            // location.reload();
+            document.forms["appStop"].submit();
+        }
+    }
+
+    //Рабочее поле
+
+    document.getElementById("fieldheight").setAttribute('value', document.getElementById("table1").getBoundingClientRect().height);
+
+    document.getElementById("fieldwidth").setAttribute('value', document.getElementById("table1").getBoundingClientRect().width);
+
+
+    document.getElementById("fieldoX1").setAttribute('value',
+        document.getElementById("table1").getBoundingClientRect().x);
+
+    document.getElementById("fieldoY1").setAttribute('value',
+        document.getElementById("table1").getBoundingClientRect().y);
+    //Элементы, которые нужно выбрать
+    document.getElementById("height").setAttribute('value', document.getElementById("required1").getBoundingClientRect().height);
+
+    document.getElementById("width").setAttribute('value', document.getElementById("required1").getBoundingClientRect().width);
+
+
+    document.getElementById("oX1").setAttribute('value',
+        document.getElementById("required1").getBoundingClientRect().x);
+
+    document.getElementById("oY1").setAttribute('value',
+        document.getElementById("required1").getBoundingClientRect().y);
+
+
+    document.getElementById("oX2").setAttribute('value',
+        document.getElementById("required2").getBoundingClientRect().x);
+
+    document.getElementById("oY2").setAttribute('value',
+        document.getElementById("required2").getBoundingClientRect().y);
+
+
+    document.getElementById("oX3").setAttribute('value',
+        document.getElementById("required3").getBoundingClientRect().x);
+
+    document.getElementById("oY3").setAttribute('value',
+        document.getElementById("required3").getBoundingClientRect().y);
+
+
+    document.getElementById("oX4").setAttribute('value',
+        document.getElementById("required4").getBoundingClientRect().x);
+
+    document.getElementById("oY4").setAttribute('value',
+        document.getElementById("required4").getBoundingClientRect().y);
+
+
+
+    document.getElementById("oX5").setAttribute('value',
+        document.getElementById("required5").getBoundingClientRect().x);
+
+    document.getElementById("oY5").setAttribute('value',
+        document.getElementById("required5").getBoundingClientRect().y);
+</script>
+
+</html>

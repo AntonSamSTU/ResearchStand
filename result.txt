@@ -1,0 +1,747 @@
+
+---------------------------------------------------------------------------------------
+
+Username: Nikita M 
+Gazepoins size: 8509
+Time of tests: 50244
+
+test1 In field: 3207
+test1 Outside field: 6828
+test1 completion : 10043
+test1 req: 62
+
+test2 In field: 6307
+test2 Outside field: 11963
+test2 completion : 18278
+test2 req: 334
+
+test3 In field: 5593
+test3 Outside field: 7203
+test3 completion : 12798
+test3 req: 498
+
+test4 In field: 4122
+test4 Outside field: 4175
+test4 completion : 9125
+test4 req: 238
+---------------------------------------------------------------------------------------
+Username: daria J
+Gazepoins size: 7482
+Time of tests: 63514
+
+test1 In field: 8451
+test1 Outside field: 6221
+test1 completion : 14378
+test1 req: 318
+
+test2 In field: 11668
+test2 Outside field: 12501
+test2 completion : 24177
+test2 req: 656
+
+test3 In field: 9714
+test3 Outside field: 3912
+test3 completion : 13637
+test3 req: 200
+
+test4 In field: 7551
+test4 Outside field: 3333
+test4 completion : 11322
+test4 req: 141
+---------------------------------------------------------------------------------------
+Username: Daniil M
+Gazepoins size: 16225
+Time of tests: 97197
+
+test1 In field: 27335
+test1 Outside field: 11834
+test1 completion : 39178
+test1 req: 257
+
+test2 In field: 11919
+test2 Outside field: 8167
+test2 completion : 20102
+test2 req: 659
+
+test3 In field: 8812
+test3 Outside field: 10590
+test3 completion : 19410
+test3 req: 516
+
+test4 In field: 11279
+test4 Outside field: 6209
+test4 completion : 18507
+test4 req: 585
+---------------------------------------------------------------------------------------
+Username: vlad M
+Gazepoins size: 22357
+Time of tests: 69031
+
+test1 In field: 16811
+test1 Outside field: 7836
+test1 completion : 24665
+test1 req: 472
+
+test2 In field: 9522
+test2 Outside field: 5722
+test2 completion : 15254
+test2 req: 566
+
+test3 In field: 12124
+test3 Outside field: 3950
+test3 completion : 16075
+test3 req: 272
+
+test4 In field: 7889
+test4 Outside field: 4416
+test4 completion : 13037
+test4 req: 191
+---------------------------------------------------------------------------------------
+Username: Kupyanskiy Gleb M 
+Gazepoins size: 31758
+Time of tests: 105417
+
+test1 In field: 18876
+test1 Outside field: 10810
+test1 completion : 29709
+test1 req: 562
+
+test2 In field: 21173
+test2 Outside field: 8649
+test2 completion : 29840
+test2 req: 1328
+
+test3 In field: 16888
+test3 Outside field: 9422
+test3 completion : 26314
+test3 req: 826
+
+test4 In field: 11752
+test4 Outside field: 7309
+test4 completion : 19554
+test4 req: 531
+---------------------------------------------------------------------------------------
+Username: valera M
+Gazepoins size: 44390
+Time of tests: 139670
+
+test1 In field: 11189
+test1 Outside field: 9392
+test1 completion : 20582
+test1 req: 277
+
+test2 In field: 30986
+test2 Outside field: 21324
+test2 completion : 52329
+test2 req: 1257
+
+test3 In field: 18159
+test3 Outside field: 12404
+test3 completion : 30582
+test3 req: 386
+
+test4 In field: 24138
+test4 Outside field: 11838
+test4 completion : 36177
+test4 req: 1759
+---------------------------------------------------------------------------------------
+Username: aleksandr m
+Gazepoins size: 49040
+Time of tests: 51154
+
+test1 In field: 10732
+test1 Outside field: 11199
+test1 completion : 21951
+test1 req: 144
+
+test2 In field: 7559
+test2 Outside field: 4615
+test2 completion : 12182
+test2 req: 237
+
+test3 In field: 6504
+test3 Outside field: 2888
+test3 completion : 9390
+test3 req: 66
+
+test4 In field: 5094
+test4 Outside field: 2349
+test4 completion : 7631
+test4 req: 77
+---------------------------------------------------------------------------------------
+Username: jenya M
+Gazepoins size: 55385
+Time of tests: 70910
+
+test1 In field: 7671
+test1 Outside field: 3049
+test1 completion : 10720
+test1 req: 32
+
+test2 In field: 14029
+test2 Outside field: 20342
+test2 completion : 34387
+test2 req: 1099
+
+test3 In field: 7648
+test3 Outside field: 5324
+test3 completion : 12980
+test3 req: 354
+
+test4 In field: 7999
+test4 Outside field: 4811
+test4 completion : 12823
+test4 req: 299
+---------------------------------------------------------------------------------------
+Username: max M
+Gazepoins size: 66963
+Time of tests: 128747
+
+test1 In field: 20659
+test1 Outside field: 7663
+test1 completion : 28332
+test1 req: 963
+
+test2 In field: 20403
+test2 Outside field: 26805
+test2 completion : 47226
+test2 req: 1400
+
+test3 In field: 29570
+test3 Outside field: 10890
+test3 completion : 40476
+test3 req: 1612
+
+test4 In field: 6982
+test4 Outside field: 5725
+test4 completion : 12713
+test4 req: 828
+---------------------------------------------------------------------------------------
+Username: Sasha J
+Gazepoins size: 70259
+Time of tests: 35925
+
+test1 In field: 7882
+test1 Outside field: 4041
+test1 completion : 11929
+test1 req: 32
+
+test2 In field: 7597
+test2 Outside field: 3490
+test2 completion : 11091
+test2 req: 65
+
+test3 In field: 4649
+test3 Outside field: 2633
+test3 completion : 7282
+test3 req: 0
+
+test4 In field: 3580
+test4 Outside field: 1876
+test4 completion : 5623
+test4 req: 182
+---------------------------------------------------------------------------------------
+Username: said M
+Gazepoins size: 77182
+Time of tests: 76676
+
+test1 In field: 14289
+test1 Outside field: 4410
+test1 completion : 18713
+test1 req: 290
+
+test2 In field: 16705
+test2 Outside field: 17829
+test2 completion : 34536
+test2 req: 620
+
+test3 In field: 7948
+test3 Outside field: 5361
+test3 completion : 13316
+test3 req: 243
+
+test4 In field: 7047
+test4 Outside field: 2346
+test4 completion : 10111
+test4 req: 109
+---------------------------------------------------------------------------------------
+Username: anton M
+Gazepoins size: 86109
+Time of tests: 98110
+
+test1 In field: 18707
+test1 Outside field: 15851
+test1 completion : 34573
+test1 req: 562
+
+test2 In field: 15863
+test2 Outside field: 11853
+test2 completion : 27723
+test2 req: 297
+
+test3 In field: 12967
+test3 Outside field: 6460
+test3 completion : 19432
+test3 req: 777
+
+test4 In field: 9200
+test4 Outside field: 7178
+test4 completion : 16382
+test4 req: 365
+---------------------------------------------------------------------------------------
+Username: Dima M
+Gazepoins size: 94269
+Time of tests: 90254
+
+test1 In field: 16771
+test1 Outside field: 8827
+test1 completion : 25607
+test1 req: 580
+
+test2 In field: 17080
+test2 Outside field: 11310
+test2 completion : 28403
+test2 req: 364
+
+test3 In field: 11358
+test3 Outside field: 8026
+test3 completion : 19395
+test3 req: 790
+
+test4 In field: 10359
+test4 Outside field: 6424
+test4 completion : 16849
+test4 req: 253
+---------------------------------------------------------------------------------------
+Username: vlad M
+Gazepoins size: 101870
+Time of tests: 83473
+
+test1 In field: 8850
+test1 Outside field: 15617
+test1 completion : 24464
+test1 req: 397
+
+test2 In field: 9567
+test2 Outside field: 13196
+test2 completion : 22770
+test2 req: 333
+
+test3 In field: 11212
+test3 Outside field: 6372
+test3 completion : 17588
+test3 req: 1318
+
+test4 In field: 10867
+test4 Outside field: 7777
+test4 completion : 18651
+test4 req: 286
+---------------------------------------------------------------------------------------
+Username: Tahmina J
+Gazepoins size: 106285
+Time of tests: 52071
+
+test1 In field: 7619
+test1 Outside field: 6245
+test1 completion : 13877
+test1 req: 31
+
+test2 In field: 8773
+test2 Outside field: 8831
+test2 completion : 17607
+test2 req: 0
+
+test3 In field: 8469
+test3 Outside field: 3557
+test3 completion : 12032
+test3 req: 309
+
+test4 In field: 5154
+test4 Outside field: 2363
+test4 completion : 8555
+test4 req: 410
+---------------------------------------------------------------------------------------
+Username: Ira J
+Gazepoins size: 115926
+Time of tests: 108179
+
+test1 In field: 8314
+test1 Outside field: 10092
+test1 completion : 18417
+test1 req: 87
+
+test2 In field: 22141
+test2 Outside field: 12522
+test2 completion : 34675
+test2 req: 336
+
+test3 In field: 18043
+test3 Outside field: 14603
+test3 completion : 32658
+test3 req: 396
+
+test4 In field: 10868
+test4 Outside field: 10603
+test4 completion : 22429
+test4 req: 110
+---------------------------------------------------------------------------------------
+Username: Zahar M
+Gazepoins size: 124759
+Time of tests: 97414
+
+test1 In field: 6786
+test1 Outside field: 14332
+test1 completion : 21130
+test1 req: 366
+
+test2 In field: 10871
+test2 Outside field: 12333
+test2 completion : 23225
+test2 req: 167
+
+test3 In field: 8458
+test3 Outside field: 10403
+test3 completion : 18871
+test3 req: 276
+
+test4 In field: 18305
+test4 Outside field: 15635
+test4 completion : 34188
+test4 req: 708
+---------------------------------------------------------------------------------------
+Username: Ilya M
+Gazepoins size: 129751
+Time of tests: 55166
+
+test1 In field: 7105
+test1 Outside field: 5908
+test1 completion : 13022
+test1 req: 88
+
+test2 In field: 8560
+test2 Outside field: 12798
+test2 completion : 21354
+test2 req: 893
+
+test3 In field: 8251
+test3 Outside field: 5891
+test3 completion : 14140
+test3 req: 750
+
+test4 In field: 5051
+test4 Outside field: 1259
+test4 completion : 6650
+test4 req: 330
+---------------------------------------------------------------------------------------
+Username: Sasha M
+Gazepoins size: 137011
+Time of tests: 80639
+
+test1 In field: 13683
+test1 Outside field: 14583
+test1 completion : 28271
+test1 req: 178
+
+test2 In field: 8058
+test2 Outside field: 7716
+test2 completion : 15781
+test2 req: 0
+
+test3 In field: 12166
+test3 Outside field: 9210
+test3 completion : 21381
+test3 req: 554
+
+test4 In field: 9421
+test4 Outside field: 4870
+test4 completion : 15206
+test4 req: 886
+---------------------------------------------------------------------------------------
+Username: Slava M
+Gazepoins size: 142772
+Time of tests: 64578
+
+test1 In field: 19826
+test1 Outside field: 9360
+test1 completion : 29200
+test1 req: 636
+
+test2 In field: 7059
+test2 Outside field: 5547
+test2 completion : 12605
+test2 req: 243
+
+test3 In field: 6850
+test3 Outside field: 3241
+test3 completion : 10102
+test3 req: 78
+
+test4 In field: 6923
+test4 Outside field: 4689
+test4 completion : 12671
+test4 req: 256
+---------------------------------------------------------------------------------------
+Username: Bogdan M
+Gazepoins size: 151050
+Time of tests: 91676
+
+test1 In field: 24463
+test1 Outside field: 8559
+test1 completion : 33028
+test1 req: 1033
+
+test2 In field: 16572
+test2 Outside field: 7926
+test2 completion : 24505
+test2 req: 609
+
+test3 In field: 7901
+test3 Outside field: 8625
+test3 completion : 16540
+test3 req: 88
+
+test4 In field: 12118
+test4 Outside field: 5026
+test4 completion : 17603
+test4 req: 496
+---------------------------------------------------------------------------------------
+Username: Anton M
+Gazepoins size: 158221
+Time of tests: 79868
+
+test1 In field: 15465
+test1 Outside field: 19070
+test1 completion : 34550
+test1 req: 167
+
+test2 In field: 9548
+test2 Outside field: 7194
+test2 completion : 16741
+test2 req: 890
+
+test3 In field: 5108
+test3 Outside field: 5517
+test3 completion : 10622
+test3 req: 120
+
+test4 In field: 9544
+test4 Outside field: 7758
+test4 completion : 17955
+test4 req: 464
+---------------------------------------------------------------------------------------
+Username: Artem M
+Gazepoins size: 166940
+Time of tests: 97191
+
+test1 In field: 29072
+test1 Outside field: 17841
+test1 completion : 46936
+test1 req: 410
+
+test2 In field: 11978
+test2 Outside field: 8312
+test2 completion : 20298
+test2 req: 189
+
+test3 In field: 7825
+test3 Outside field: 4295
+test3 completion : 12123
+test3 req: 499
+
+test4 In field: 11754
+test4 Outside field: 5493
+test4 completion : 17834
+test4 req: 246
+---------------------------------------------------------------------------------------
+Username: Serega M
+Gazepoins size: 176826
+Time of tests: 108750
+
+test1 In field: 20615
+test1 Outside field: 10756
+test1 completion : 31380
+test1 req: 227
+
+test2 In field: 9494
+test2 Outside field: 12682
+test2 completion : 22184
+test2 req: 863
+
+test3 In field: 14052
+test3 Outside field: 15936
+test3 completion : 29995
+test3 req: 439
+
+test4 In field: 14961
+test4 Outside field: 10208
+test4 completion : 25191
+test4 req: 827
+---------------------------------------------------------------------------------------
+Username: Kristina J
+Gazepoins size: 183861
+Time of tests: 79019
+
+test1 In field: 13476
+test1 Outside field: 8358
+test1 completion : 21837
+test1 req: 123
+
+test2 In field: 9326
+test2 Outside field: 9661
+test2 completion : 19000
+test2 req: 940
+
+test3 In field: 6793
+test3 Outside field: 5927
+test3 completion : 12729
+test3 req: 322
+
+test4 In field: 12893
+test4 Outside field: 12392
+test4 completion : 25453
+test4 req: 919
+---------------------------------------------------------------------------------------
+Username: Nastya J
+Gazepoins size: 196582
+Time of tests: 141863
+
+test1 In field: 20957
+test1 Outside field: 23457
+test1 completion : 44435
+test1 req: 22
+
+test2 In field: 16664
+test2 Outside field: 17685
+test2 completion : 34359
+test2 req: 1322
+
+test3 In field: 20264
+test3 Outside field: 22654
+test3 completion : 42930
+test3 req: 475
+
+test4 In field: 11622
+test4 Outside field: 8079
+test4 completion : 20139
+test4 req: 439
+---------------------------------------------------------------------------------------
+Username: Kostya M
+Gazepoins size: 204403
+Time of tests: 86847
+
+test1 In field: 9161
+test1 Outside field: 8463
+test1 completion : 17634
+test1 req: 455
+
+test2 In field: 10671
+test2 Outside field: 11715
+test2 completion : 22387
+test2 req: 322
+
+test3 In field: 13208
+test3 Outside field: 12637
+test3 completion : 25852
+test3 req: 1024
+
+test4 In field: 10778
+test4 Outside field: 9623
+test4 completion : 20974
+test4 req: 365
+---------------------------------------------------------------------------------------
+Username: Dima M
+Gazepoins size: 212105
+Time of tests: 85489
+
+test1 In field: 13962
+test1 Outside field: 26215
+test1 completion : 40189
+test1 req: 742
+
+test2 In field: 8795
+test2 Outside field: 15133
+test2 completion : 23948
+test2 req: 287
+
+test3 In field: 1632
+test3 Outside field: 7241
+test3 completion : 8873
+test3 req: 653
+
+test4 In field: 4425
+test4 Outside field: 7667
+test4 completion : 12479
+test4 req: 309
+---------------------------------------------------------------------------------------
+Username: Nikita M
+Gazepoins size: 218682
+Time of tests: 72517
+
+test1 In field: 12014
+test1 Outside field: 6171
+test1 completion : 18189
+test1 req: 455
+
+test2 In field: 10351
+test2 Outside field: 12651
+test2 completion : 23019
+test2 req: 1339
+
+test3 In field: 6536
+test3 Outside field: 8225
+test3 completion : 14777
+test3 req: 553
+
+test4 In field: 11266
+test4 Outside field: 4821
+test4 completion : 16532
+test4 req: 388
+---------------------------------------------------------------------------------------
+Username: Ira J
+Gazepoins size: 226737
+Time of tests: 89427
+
+test1 In field: 22412
+test1 Outside field: 19110
+test1 completion : 41542
+test1 req: 188
+
+test2 In field: 12751
+test2 Outside field: 5957
+test2 completion : 18715
+test2 req: 621
+
+test3 In field: 9029
+test3 Outside field: 6244
+test3 completion : 15269
+test3 req: 420
+
+test4 In field: 9436
+test4 Outside field: 3909
+test4 completion : 13901
+test4 req: 650
+---------------------------------------------------------------------------------------
+Username: Elena F
+Gazepoins size: 6363
+Time of tests: 73100
+
+test1 In field: 14461
+test1 Outside field: 8064
+test1 completion : 22532
+test1 req: 375
+
+test2 In field: 14741
+test2 Outside field: 7674
+test2 completion : 22423
+test2 req: 530
+
+test3 In field: 11905
+test3 Outside field: 4082
+test3 completion : 16003
+test3 req: 707
+
+test4 In field: 7975
+test4 Outside field: 3673
+test4 completion : 12142
+test4 req: 641
+---------------------------------------------------------------------------------------

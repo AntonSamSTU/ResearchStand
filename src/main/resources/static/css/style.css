@@ -1,0 +1,61 @@
+#startform{
+    margin: 150px auto;
+    text-align:center;
+}
+button {
+    border-spacing: 10px 0px;
+    margin: auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+div {
+    margin: auto;
+    width: 535px;
+    height: 150px;
+    border-radius: 10px;
+    background-size: contain;
+}
+
+#body1{
+ background-size: 100%;
+}
+
+/*label{
+    font-family: Impact;
+    font-size: 45px;
+    color: aqua;
+}*/
+
+table {
+    font-family: Impact;
+    font-size: 45px;
+    color: aqua;
+    border-spacing: 10px 0px;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 13px 20px;
+    border-radius: 10px;
+}
+
+tr {
+    padding: 0, 0, 0, 0;
+}
+
+th {
+    font-family: Impact;
+    font-size: 45px;
+    color: aqua;
+
+}
+
+
+
+.required {
+    /* transform: rotate(180deg); */
+    transform: scale(1, -1);
+}
+
+.clicked {
+    background-color: #f90;
+}
